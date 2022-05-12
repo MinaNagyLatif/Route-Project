@@ -1,0 +1,10 @@
+@media screen and (min-width:992px) {
+    .gold{
+        transform: scale(1.1);
+    }
+}
+@media screen and(min-width:1200px) {
+    .goldValue{
+        margin-left: -10px;
+    }
+}
