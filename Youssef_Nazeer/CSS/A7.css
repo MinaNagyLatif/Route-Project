@@ -256,3 +256,33 @@ p::selection{
     width: 90%;
 }
 /* end section cheap */
+/*______________________________________*/
+/* contact section */
+.map iframe{
+    width: 600px;
+    height: 600px;
+}
+
+
+.contact-title{text-align: start;}
+.contact-title h2{
+font-size: 30px;
+color:rgb(31, 31, 31);
+    text-align: start;
+}
+.contact p{
+    color:rgb(120, 120, 120);
+    font-size: 18px;
+    line-height: 24px;
+    margin: 10px 0px;
+}
+.contact button{
+    padding: 12px 25px;
+}
+.form-control:focus{
+    box-shadow: 0 0 0 .1em #1f1f1f;
+}
+label{
+    color:rgb(31, 31, 31);
+    font-size: 17px;
+}
